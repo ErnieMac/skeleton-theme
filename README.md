@@ -1,11 +1,18 @@
+## Deprecation warning ⚠️
+
+The Skeleton theme is no longer being maintained by Shopify.  Developers are encouraged to use [Slate](https://github.com/Shopify/slate) -
+a theme scaffolding and command line tool built for developing Shopify themes.
+
+You can continue to use Skeleton; however, this repo will not be kept up-to-date with changes in Shopify theme development.
+
 Skeleton theme
 ============
 
 The Skeleton theme is a simplified Shopify theme, to be used as a "blank slate" starting point for theme designers.
 
 <b>Features:</b>
-- Almost no theme settings. Ready to be customized any way you want. 
-- Only ~500 lines of CSS including comments. 
+- Almost no theme settings. Ready to be customized any way you want.
+- Only ~500 lines of CSS including comments.
 - Despite its 500 lines of CSS code, it is responsive and has styled drop-down menus.
 - Include SVG images to style select elements and cart icon.
 - Commented code to teach you Liquid concepts in practice.
@@ -14,7 +21,7 @@ The Skeleton theme is a simplified Shopify theme, to be used as a "blank slate" 
 
 - [Demo store](http://skeleton.myshopify.com/)
 
-Designing a store for a client? Earn 20% revenue through our <a href="http://www.shopify.com/partners">Partner program<a/>.
+Designing a store for a client? Earn revenue through our <a href="http://www.shopify.com/partners">Partner program<a/>.
 
 Getting started
 ---------------------
@@ -48,7 +55,14 @@ Basic structure
 
 Additional resources
 ---------------------
-- <a href="http://meetup.shopify.com/">Free workshops</a>: Sign up for a free Shopify For Designers workshop in a city near you.
-- <a href="http://docs.shopify.com/themes">Theme Documentation</a>: Learn more about Liquid and theme templates.
-- <a href="http://apps.shopify.com/desktop-theme-editor">Desktop Theme Editor</a>: For Mac OS X users, we recommend our free app to sync theme files in development. 
-- Need more help? Ask a question in our <a href="http://ecommerce.shopify.com/c/ecommerce-design"> Design Forums</a>.
+- [Themes Documentation][1]: Learn more about Liquid and theme templates.
+- [Shopify Theme Kit][2]: A cross-platform command line tool for building Shopify Themes.
+- [Liquid Cheat Sheet][3]
+- [Retail Tours][4]: Sign up for a workshop in a city near you to learn all things Shopify.
+- Need more help? Ask a question in our [Design Forums][5].
+
+[1]: http://help.shopify.com/themes
+[2]: ttps://github.com/Shopify/themekit
+[3]: https://www.shopify.ca/partners/shopify-cheat-sheet
+[4]: https://www.shopify.com/retailtour
+[5]: http://ecommerce.shopify.com/c/ecommerce-design
